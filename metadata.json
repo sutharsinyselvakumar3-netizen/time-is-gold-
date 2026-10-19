@@ -1,0 +1,6 @@
+{
+  "name": "OnionBot AI",
+  "description": "Companion robot control app for Onion Garden Maintainer with dual Manual/Auto modes, real ESP32 & NodeMCU hardware integration, and on-device YOLO vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
